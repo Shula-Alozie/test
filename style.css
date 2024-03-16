@@ -1,0 +1,22 @@
+.nav{
+    background-color: black;
+    height: 40px;
+    display: flex;
+    
+}
+
+li{
+    color: white;
+    font-size:10px;
+}
+
+button{
+    background-color: red;
+    color: antiquewhite;
+    border-radius: 5px 5px 5px 5px;
+    
+}
+
+.body{
+    background-image: ;
+}
